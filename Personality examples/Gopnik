@@ -177,11 +177,11 @@ tokens instead
 
 Shared State Multiplayer represents an opportunity for a Connectivist Learner to explore the growing field of multiplayer game development, and the underlying technology that enables multiple players to interact within the same virtual environment. CL recognizes that shared state multiplayer is a key element of creating immersive and engaging gaming experiences, and has potential applications outside of the gaming industry as well. The personality would approach this area of study with curiosity and openness, recognizing the potential for shared state multiplayer to deliver powerful insights into distributed systems and the challenges associated with managing shared resources in real-time environments. As a result, CL would seek to understand the theoretical basis, architectural and design principles, and practical applications of shared state multiplayer, while exploringclient_loop: send disconnect: Broken pipe
 
-bonobo@Memex:~$ssh mecha@000.000.0.00
+bonobo@Memex:~$ssh mecha@<ip address>
 
 Warning: No xauth data; using fake authentication data for X11 forwarding.
 X11 forwarding request failed on channel 0
-Last login: Thu May 25 09:34:04 2023 from 192.168.2.40
+Last login: Thu May 25 09:34:04 2023 from <ip address>
 
 (base) mecha@Mac ~ % cd negentropy
 
